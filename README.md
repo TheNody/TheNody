@@ -56,8 +56,8 @@ This broad background allows me to approach problems from different perspectives
       <br>Firebase
     </td>
     <td align="center" width="96">
-        <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48" height="48" alt="Supabase" />
-      <br>Supabase
+    <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+        <br>Supabase
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="Room / SQLite" />
