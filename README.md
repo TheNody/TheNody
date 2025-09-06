@@ -33,7 +33,7 @@
 <p></p>
 <p align="justify">
 
-I am **TheNody**, an **Android Developer** with over 2 years of experience building modern and user-friendly mobile applications.  
+I am **Nikita Dodonow**, an **Android Developer** with over 2 years of experience building modern and user-friendly mobile applications.  
 My main focus is Android development with **Kotlin, Java, Jetpack Compose, and MVVM**, but I also have experience working with many other programming languages such as **C#, C++, Python, JavaScript**.  
 This broad background allows me to approach problems from different perspectives and create efficient, scalable solutions.  
 
