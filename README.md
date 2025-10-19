@@ -33,9 +33,10 @@
 <p></p>
 <p align="justify">
 
-I am **Nikita Dodonow**, an **Android Developer** with over 2 years of experience building modern and user-friendly mobile applications.  
-My main focus is Android development with **Kotlin, Java, Jetpack Compose, and MVVM**, but I also have experience working with many other programming languages such as **C#, C++, Python, JavaScript**.  
-This broad background allows me to approach problems from different perspectives and create efficient, scalable solutions.  
+I am **Nikita Dodonow**, a **Mobile Developer** with over **5 years of experience** building modern and user-friendly applications for **iOS** and **Android**.  
+My main focus is on mobile development using **Kotlin, Java, Jetpack Compose, and Flutter**, as well as backend communication via **Go (Golang)** REST APIs.  
+I also have experience working with other programming languages such as **C#, C++, Python, and JavaScript**,  
+which helps me approach problems from different perspectives and create efficient, scalable solutions.
 
 </p>
 
@@ -54,8 +55,16 @@ This broad background allows me to approach problems from different perspectives
       <br>Android Studio
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+      <br>Go (Golang)
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
@@ -65,6 +74,8 @@ This broad background allows me to approach problems from different perspectives
     <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
         <br>Supabase
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="Room / SQLite" />
       <br>Room / SQLite
@@ -73,8 +84,6 @@ This broad background allows me to approach problems from different perspectives
         <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="Gradle" />
       <br>Gradle
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -92,14 +101,6 @@ This broad background allows me to approach problems from different perspectives
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
@@ -112,10 +113,6 @@ This broad background allows me to approach problems from different perspectives
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
-      <br>Material UI
     </td>
     <td align="center" width="96">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-retrofit-2-458286.png" width="48" height="48" alt="Retrofit" />
@@ -161,7 +158,6 @@ This broad background allows me to approach problems from different perspectives
 ## 🏅 GitHub Awards Collection
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheNody&theme=flat&no-frame=true&row=3&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheNody/TheNody/output/github-contribution-grid-snake.gif">
